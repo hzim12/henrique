@@ -1,1 +1,23 @@
-# henrique
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Primeira Página</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Olá, mundo!</h1>
+    <p>Esta é a minha primeira página web.</p>
+    <img src="https://via.placeholder.com/150" alt="Exemplo de imagem">
+
+    <script src="script.js"></script>
+</body>
+</html># henriquebody {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
